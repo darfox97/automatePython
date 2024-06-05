@@ -1,0 +1,3 @@
+# Gitignore para ignorar los siguientes archivos para no subirlos a repositorio:
+
+.env

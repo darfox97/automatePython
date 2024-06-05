@@ -1,0 +1,11 @@
+En views.py, deberá retornar render:
+
+    productos = Product.objects.all()
+
+    return render(
+        request,
+        'index.html',
+        context={'productos': productos}
+    )
+
+Debemos crear una nueva carpeta para las plantillas (templates)

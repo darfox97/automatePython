@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./strings/_08_",
+        "./strings/_08_"
+    ]
+}

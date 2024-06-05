@@ -1,0 +1,47 @@
+Para evitar que pylint muestre errores cuando trabajamos con Django, hay que instalar pylint-django, crear
+un fichero .pylintrc y añadir "pylint.args": ["load-plugins=pylint_django"] en la configuración de VS Code (ctrl + ,)
+
+Para crear proyecto Django en VS Code:
+1. Crear carpeta.
+2. Instalar versión de Django que queramos en entorno virtual: pipenv install django==4.1.7
+3. pipenv shell
+4. Herramienta administrativa incluida con Django: "django-admin startproject nombre_proyecto ."
+ 5. Automáticamente se creará una carpeta con el nombre del proyecto y un archivo manage.py que usaremos para gestionar los proyectos escritos con Django ya que viene con muchas herramientas que facilitarán nuestro trabajo.
+6 - Dentro de los archivos creados en la carpeta del proyecto:
+  - asgi.py y wsgi.py sirven para cuestiones avanzadas de despliegue de aplicaciones.
+  - __init__.py permite convertir la carpeta en un paquete.
+  - settings.py nos permitirá establecer configuraciones de nuestro proyecto.
+  - urls.py permitirá configurar las rutas de nuestra aplicación, las diferentes páginas de nuestra web.
+
+7 - python manage.py runserver
+Esto arranca el proyecto (en servidor local). Un proyecto puede tener múltiples aplicaciones.
+
+8. Para crear una nueva aplicación en un proyecto, en la carpeta padre del proyecto:
+python manage.py startapp app1
+
+Dentro de la nueva carpeta app1, encontraremos:
+  - Carpeta migrations, donde se guardarán todos los cambios realizados a una base de datos.
+  - init sirve para indicar que es un paquete.
+  - admin.py para registrar los modelos en el administrador de Django
+  - apps.py para registrar la aplicación.
+  - models.py para definir clases que hacen referencia a tablas en la base de datos.
+  - tests.py para pruebas automatizadas.
+  - views.py 
+
+Una vez creada la aplicación, hay que instalarla. También hay que configurar las URLs o rutas. Para instalarla hay que añadir
+la clase presente en app1 --> apps.py a la lista de apps instaladas en project1 --> settings.py
+
+Ahora ya podremos añadir las rutas en el fichero urls.py, para ello tendremos que importar include dentro del paquete django.urls
+y crear un fichero urls.py en el directorio app1 para establecer los urlpatterns . Finalmente lo añadimos en urls.py del directorio project1.
+
+
+PANEL DE ADMINISTRACIÓN:
+Ejecutar manage.py runserver y en la ruta añadir /admin
+python manage.py createsuperuser
+
+- Para registrar los modelos en el panel de administración:
+
+
+INTERACTUANDO CON BASE DE DATOS:
+
+En views, importar el paquete correspondiente desde .models y en index, devolver una lista en formato JSON.

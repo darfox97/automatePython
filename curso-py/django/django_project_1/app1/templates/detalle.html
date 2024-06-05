@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div>
+    <h5>{{ producto.nombre }}</h5>
+    <p>{{ producto.categoria}}</p>
+    <p>{{ producto.stock}}</p>
+    <p>{{ producto.puntaje}}</p>
+    <p>{{ producto.created_on}}</p>
+</div>
+{% endblock %}

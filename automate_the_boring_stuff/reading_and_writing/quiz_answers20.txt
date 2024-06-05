@@ -1,0 +1,100 @@
+- Florida: 
+	 Tallahassee 
+- Pennsylvania: 
+	 Harrisburg 
+- Nevada: 
+	 Carson City 
+- New York: 
+	 Albany 
+- Ohio: 
+	 Columbus 
+- Minnesota: 
+	 Saint Paul 
+- New Mexico: 
+	 Santa Fe 
+- Rhode Island: 
+	 Providence 
+- South Dakota: 
+	 Pierre 
+- Arkansas: 
+	 Little Rock 
+- Delaware: 
+	 Dover 
+- North Dakota: 
+	 Bismarck 
+- Montana: 
+	 Helena 
+- New Jersey: 
+	 Trenton 
+- Missouri: 
+	 Jefferson City 
+- Colorado: 
+	 Denver 
+- South Carolina: 
+	 Columbia 
+- Alaska: 
+	 Juneau 
+- Alabama: 
+	 Montgomery 
+- Louisiana: 
+	 Baton Rouge 
+- New Hampshire: 
+	 Concord 
+- Hawaii: 
+	 Honolulu 
+- Washington: 
+	 Olympia 
+- Michigan: 
+	 Lansing 
+- Wyoming: 
+	 Cheyenne 
+- Texas: 
+	 Austin 
+- Utah: 
+	 Salt Lake City 
+- Arizona: 
+	 Phoenix 
+- Kentucky: 
+	 Frankfort 
+- California: 
+	 Sacramento 
+- Virginia: 
+	 Richmond 
+- Mississippi: 
+	 Jackson 
+- Nebraska: 
+	 Lincoln 
+- Iowa: 
+	 Des Moines 
+- Vermont: 
+	 Montpelier 
+- Connecticut: 
+	 Hartford 
+- Illinois: 
+	 Springfield 
+- Maine: 
+	 Augusta 
+- Maryland: 
+	 Annapolis 
+- North Carolina: 
+	 Raleigh 
+- Massachusetts: 
+	 Boston 
+- Oklahoma: 
+	 Oklahoma City 
+- Idaho: 
+	 Boise 
+- Tennessee: 
+	 Nashville 
+- Georgia: 
+	 Atlanta 
+- Indiana: 
+	 Indianapolis 
+- Wisconsin: 
+	 Madison 
+- Kansas: 
+	 Topeka 
+- Oregon: 
+	 Salem 
+- West Virginia: 
+	 Charleston 

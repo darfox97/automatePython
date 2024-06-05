@@ -1,0 +1,258 @@
+Name:
+
+Date:
+
+Period:
+
+                    State Capitals Quiz (Form5)
+
+- Oklahoma: 
+	A. Oklahoma City
+	B. Lincoln
+	C. Denver
+	D. Harrisburg
+- Delaware: 
+	A. Santa Fe
+	B. Dover
+	C. Springfield
+	D. Cheyenne
+- New Jersey: 
+	A. Boise
+	B. Trenton
+	C. Providence
+	D. Oklahoma City
+- South Dakota: 
+	A. Columbia
+	B. Santa Fe
+	C. Pierre
+	D. Raleigh
+- Indiana: 
+	A. Salt Lake City
+	B. Phoenix
+	C. Indianapolis
+	D. Jefferson City
+- Maine: 
+	A. Providence
+	B. Augusta
+	C. Raleigh
+	D. Juneau
+- North Dakota: 
+	A. Albany
+	B. Bismarck
+	C. Columbus
+	D. Carson City
+- Illinois: 
+	A. Dover
+	B. Springfield
+	C. Raleigh
+	D. Saint Paul
+- California: 
+	A. Atlanta
+	B. Jefferson City
+	C. Sacramento
+	D. Pierre
+- Pennsylvania: 
+	A. Richmond
+	B. Pierre
+	C. Harrisburg
+	D. Olympia
+- Michigan: 
+	A. Springfield
+	B. Lansing
+	C. Trenton
+	D. Salem
+- South Carolina: 
+	A. Boise
+	B. Dover
+	C. Nashville
+	D. Columbia
+- Arkansas: 
+	A. Concord
+	B. Little Rock
+	C. Lincoln
+	D. Juneau
+- Kansas: 
+	A. Jefferson City
+	B. Topeka
+	C. Providence
+	D. Annapolis
+- Idaho: 
+	A. Boise
+	B. Concord
+	C. Lansing
+	D. Nashville
+- Iowa: 
+	A. Des Moines
+	B. Austin
+	C. Charleston
+	D. Olympia
+- Nebraska: 
+	A. Saint Paul
+	B. Frankfort
+	C. Albany
+	D. Lincoln
+- New Mexico: 
+	A. Santa Fe
+	B. Columbus
+	C. Oklahoma City
+	D. Baton Rouge
+- Missouri: 
+	A. Little Rock
+	B. Montgomery
+	C. Jefferson City
+	D. Raleigh
+- Vermont: 
+	A. Pierre
+	B. Trenton
+	C. Montpelier
+	D. Sacramento
+- Alaska: 
+	A. Juneau
+	B. Montgomery
+	C. Indianapolis
+	D. Helena
+- Maryland: 
+	A. Richmond
+	B. Little Rock
+	C. Annapolis
+	D. Indianapolis
+- Nevada: 
+	A. Raleigh
+	B. Annapolis
+	C. Pierre
+	D. Carson City
+- Georgia: 
+	A. Harrisburg
+	B. Concord
+	C. Lincoln
+	D. Atlanta
+- Oregon: 
+	A. Atlanta
+	B. Pierre
+	C. Salem
+	D. Trenton
+- Utah: 
+	A. Helena
+	B. Tallahassee
+	C. Phoenix
+	D. Salt Lake City
+- Alabama: 
+	A. Phoenix
+	B. Oklahoma City
+	C. Jackson
+	D. Montgomery
+- Rhode Island: 
+	A. Providence
+	B. Lansing
+	C. Albany
+	D. Montgomery
+- Mississippi: 
+	A. Boise
+	B. Columbus
+	C. Lansing
+	D. Jackson
+- Ohio: 
+	A. Little Rock
+	B. Raleigh
+	C. Columbus
+	D. Atlanta
+- Hawaii: 
+	A. Cheyenne
+	B. Oklahoma City
+	C. Honolulu
+	D. Montpelier
+- Minnesota: 
+	A. Concord
+	B. Topeka
+	C. Baton Rouge
+	D. Saint Paul
+- Florida: 
+	A. Springfield
+	B. Tallahassee
+	C. Montpelier
+	D. Raleigh
+- Virginia: 
+	A. Austin
+	B. Richmond
+	C. Jefferson City
+	D. Augusta
+- Texas: 
+	A. Baton Rouge
+	B. Austin
+	C. Montpelier
+	D. Boston
+- North Carolina: 
+	A. Austin
+	B. Frankfort
+	C. Raleigh
+	D. Sacramento
+- Louisiana: 
+	A. Baton Rouge
+	B. Honolulu
+	C. Columbia
+	D. Salem
+- New York: 
+	A. Phoenix
+	B. Albany
+	C. Juneau
+	D. Concord
+- Wisconsin: 
+	A. Pierre
+	B. Nashville
+	C. Columbus
+	D. Madison
+- Washington: 
+	A. Augusta
+	B. Baton Rouge
+	C. Olympia
+	D. Jefferson City
+- Arizona: 
+	A. Helena
+	B. Dover
+	C. Phoenix
+	D. Boston
+- West Virginia: 
+	A. Cheyenne
+	B. Charleston
+	C. Annapolis
+	D. Madison
+- Montana: 
+	A. Nashville
+	B. Juneau
+	C. Albany
+	D. Helena
+- Colorado: 
+	A. Des Moines
+	B. Denver
+	C. Frankfort
+	D. Trenton
+- Tennessee: 
+	A. Jefferson City
+	B. Nashville
+	C. Helena
+	D. Madison
+- Connecticut: 
+	A. Hartford
+	B. Madison
+	C. Nashville
+	D. Trenton
+- New Hampshire: 
+	A. Columbia
+	B. Concord
+	C. Austin
+	D. Lansing
+- Wyoming: 
+	A. Springfield
+	B. Cheyenne
+	C. Topeka
+	D. Montpelier
+- Massachusetts: 
+	A. Santa Fe
+	B. Bismarck
+	C. Boston
+	D. Juneau
+- Kentucky: 
+	A. Harrisburg
+	B. Jefferson City
+	C. Frankfort
+	D. Hartford
